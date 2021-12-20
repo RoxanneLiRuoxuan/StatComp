@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RDate
+.Ruserdata
+Meta
+src/*.o
+src/*.so
+src/*.dll

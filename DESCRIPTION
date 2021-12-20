@@ -1,0 +1,17 @@
+Package: StatComp21020
+Type: Package
+Title: Course assignment for 'Statistical Computing'
+Version: 1.0
+Date: 2021-12-15
+Author: Ruoxuan Li
+Maintainer: Ruoxuan Li <liruoxuan@mail.ustc.edn.cn>
+Description: This package includes a Rcpp function, several functions to solve the  local likelihood estimation for  exponential generalized linear model and a funtions to apply the K-means algorithm.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7),microbenchmark,RANN,boot,energy,Ball,bootstrap,MASS,graphics
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/RoxanneLiRuoxuan/StatComp21020
+BugReports: http://github.com/RoxanneLiRuoxuan/StatComp21020/issues
